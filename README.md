@@ -16,7 +16,7 @@ The Project is not fully completed, so please don't forget to point an issue.
 
 #### You could buy me a bit of happiness, for going through it all. And I will Email You the Driver App.
 
-### Pay With [gumroad](https://gum.co/LsYmS)
+
 
 ## Features
 1. Google Maps SDK Cordova 
